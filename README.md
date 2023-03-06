@@ -3,7 +3,7 @@ PizzaWallah is an android aplication for ordering pizza only.It is client side a
 
 ## Recommended System - Android smartphone version 12 and above
 
-### PizzaWallah Application Screens
+## PizzaWallah Application Screens
 https://user-images.githubusercontent.com/108862401/223104262-1a86ba9c-facf-42b0-adb4-6ba1518b308b.mp4
 <p>Splash Screen Video </p>
 <section>
