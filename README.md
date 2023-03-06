@@ -10,11 +10,6 @@ https://user-images.githubusercontent.com/108862401/223104262-1a86ba9c-facf-42b0
  <div>
     <img src="https://user-images.githubusercontent.com/108862401/223104147-8853d611-6852-4a8d-9af0-dd8bca47a1dc.jpg" width="300" height="auto"  padding="50">
   <p>   Login Screen </p>
-  <p>
-   
-   
-   
-   </p>
  </div>
  
  <div>
@@ -29,16 +24,19 @@ https://user-images.githubusercontent.com/108862401/223104262-1a86ba9c-facf-42b0
  
  <div>
 <img src="https://user-images.githubusercontent.com/108862401/223104213-40fc1d60-19de-40c4-868a-41bb960a5764.jpg" width="300" height="auto"  padding="50">
-  <p style="font-weight:bold">Payment Screen </p>
+  <p style="font-weight:bold;">Payment Screen </p>
  </div>
  
 <div>
  
 <img src="https://user-images.githubusercontent.com/108862401/223104459-9685daf3-f168-499f-b17b-30d41d7451c3.jpg" width="300" height="auto"  padding="50">
- <p></p>
+ <p>Details Screen </p>
  </div>
+ 
+ <div>
 <img src="https://user-images.githubusercontent.com/108862401/223104187-3c1cc82d-8b31-48a3-bd0b-44446eb5a32e.jpg" width="200" height="auto"  padding="50">
-
+ <p>Logout Dropbar </p>
+ </div>
 
 
 
