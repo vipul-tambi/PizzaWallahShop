@@ -5,15 +5,15 @@ PizzaWallah is an android aplication for ordering pizza only.It is client side a
 
 ### PizzaWallah Application Screens
 <div>
-<img src="https://user-images.githubusercontent.com/108862401/223102890-ae291608-bbfd-4298-9393-d7a4d87da3d4.jpg" width="200" height="auto" padding="20">
-<img src="https://user-images.githubusercontent.com/108862401/223104147-8853d611-6852-4a8d-9af0-dd8bca47a1dc.jpg" width="300" height="auto"  padding="20">
-<img src="https://user-images.githubusercontent.com/108862401/223104213-40fc1d60-19de-40c4-868a-41bb960a5764.jpg" width="300" height="auto"  padding="20">
+<img src="https://user-images.githubusercontent.com/108862401/223102890-ae291608-bbfd-4298-9393-d7a4d87da3d4.jpg" width="200" height="auto" padding="50">
+<img src="https://user-images.githubusercontent.com/108862401/223104147-8853d611-6852-4a8d-9af0-dd8bca47a1dc.jpg" width="300" height="auto"  padding="50">
+<img src="https://user-images.githubusercontent.com/108862401/223104213-40fc1d60-19de-40c4-868a-41bb960a5764.jpg" width="300" height="auto"  padding="50">
   </div>
   <div>
   
-<img src="https://user-images.githubusercontent.com/108862401/223104229-927b7cf0-d29b-4719-a89c-e2061f0366d9.jpg" width="300" height="auto"  padding="20">
-<img src="https://user-images.githubusercontent.com/108862401/223104459-9685daf3-f168-499f-b17b-30d41d7451c3.jpg" width="300" height="auto"  padding="20">
-<img src="https://user-images.githubusercontent.com/108862401/223104187-3c1cc82d-8b31-48a3-bd0b-44446eb5a32e.jpg" width="100" height="auto"  padding="20">
+<img src="https://user-images.githubusercontent.com/108862401/223104229-927b7cf0-d29b-4719-a89c-e2061f0366d9.jpg" width="300" height="auto"  padding="50">
+<img src="https://user-images.githubusercontent.com/108862401/223104459-9685daf3-f168-499f-b17b-30d41d7451c3.jpg" width="300" height="auto"  padding="50">
+<img src="https://user-images.githubusercontent.com/108862401/223104187-3c1cc82d-8b31-48a3-bd0b-44446eb5a32e.jpg" width="200" height="auto"  padding="50">
 </div>
 
 https://user-images.githubusercontent.com/108862401/223104262-1a86ba9c-facf-42b0-adb4-6ba1518b308b.mp4
