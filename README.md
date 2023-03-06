@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/108862401/223104262-1a86ba9c-facf-42b0
  
  <div>
 <img src="https://user-images.githubusercontent.com/108862401/223104213-40fc1d60-19de-40c4-868a-41bb960a5764.jpg" width="300" height="auto"  padding="50">
-  <p style="font-weight:bold;">Payment Screen </p>
+  <p>Payment Screen </p>
  </div>
  
 <div>
